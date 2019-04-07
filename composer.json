@@ -1,2 +1,8 @@
 {
+    "name": "smartdog23/adminer",
+    "description": "Database management in a single PHP file.",
+    "homepage": "https://www.adminer.org/",
+    "keywords": [
+        "database"
+    ]
 }
